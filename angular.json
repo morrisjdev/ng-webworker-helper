@@ -96,6 +96,18 @@
               "**/node_modules/**"
             ]
           }
+        },
+        "build-worker": {
+          "builder": "@angular-devkit/build-webpack:webpack",
+          "options": {
+            "webpackConfig": "./webworker.webpack.config.js"
+          }
+        },
+        "dev-worker": {
+          "builder": "@angular-devkit/build-webpack:webpack",
+          "options": {
+            "webpackConfig": "./webworker.webpack.dev.config.js"
+          }
         }
       }
     },

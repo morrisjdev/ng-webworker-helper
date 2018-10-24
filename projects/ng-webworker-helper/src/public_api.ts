@@ -2,6 +2,6 @@
  * Public API Surface of ng-webworker-helper
  */
 
-export * from './lib/ng-webworker-helper.service';
-export * from './lib/ng-webworker-helper.component';
-export * from './lib/ng-webworker-helper.module';
+export * from './lib/webworker-helper';
+export * from './lib/ng-webworker.service';
+export * from './lib/model/webworker-handler-base';
