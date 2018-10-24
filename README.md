@@ -18,7 +18,7 @@ npm install concurrently -D
 You can now use Webworkers, but you have to enable Angular to transpile your webworker files into a seperate .js file.
 
 First of all copy the files [webworker.webpack.config.js](webworker.webpack.config.js) and 
-[webworker.webpack.config.dev.js](webworker.webpack.config.dev.js) in your projects root folder.
+[webworker.webpack.dev.config.js](webworker.webpack.dev.config.js) in your projects root folder.
 Then copy the file [src/tsconfig.worker.json](src/tsconfig.worker.json) to your src folder.
 
 Now add this entries to the `angular.json` of your project:
