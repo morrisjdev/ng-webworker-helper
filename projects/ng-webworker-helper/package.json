@@ -1,0 +1,27 @@
+{
+  "name": "ng-webworker-helper",
+  "version": "0.0.1",
+  "description": "a helper to use webworker in an angular application",
+  "peerDependencies": {
+    "@angular/common": "^7.0.0",
+    "@angular/core": "^7.0.0",
+    "rxjs": "^6.0.0"
+  },
+  "keywords": [
+    "angular",
+    "webworker",
+    "rxjs"
+  ],
+  "author": {
+    "name": "Morris Janatzek"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/morrisjdev/ng-webworker-helper/issues"
+  },
+  "homepage": "https://github.com/morrisjdev/ng-webworker-helper",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/morrisjdev/ng-webworker-helper.git"
+  }
+}
