@@ -120,3 +120,7 @@ export class AppComponent {
   }
 }
 ````
+
+## Author
+
+[Morris Janatzek](http://morrisj.net) ([morrisjdev](https://github.com/morrisjdev))
