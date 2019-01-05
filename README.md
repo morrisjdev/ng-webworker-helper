@@ -1,4 +1,4 @@
-# ng-webworker-helper [![Maintainability](https://api.codeclimate.com/v1/badges/1c7beb2c8cb98f25a166/maintainability)](https://codeclimate.com/github/morrisjdev/ng-webworker-helper/maintainability)
+# ng-webworker-helper [![Build Status](https://travis-ci.org/morrisjdev/ng-webworker-helper.svg?branch=master)](https://travis-ci.org/morrisjdev/ng-webworker-helper) [![Maintainability](https://api.codeclimate.com/v1/badges/1c7beb2c8cb98f25a166/maintainability)](https://codeclimate.com/github/morrisjdev/ng-webworker-helper/maintainability)
 
 This project is an extension for Angular that should make working with WebWorker simple. This project enables you to
 run code in a seperate thread and make the UI run faster.
